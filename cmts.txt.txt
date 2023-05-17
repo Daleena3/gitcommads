@@ -4,3 +4,8 @@ git status => list untracked files
 git add  _A => add all files to staging area
  
 git commit -m "message" = moving staging files to local repository
+
+
+git clone
+git pull
+git push
